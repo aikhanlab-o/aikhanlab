@@ -35,7 +35,7 @@
   - ✅ Staff Roles, Audit Trails & Reporting Logs
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dolibarr/dolibarr/dev/dev/societe/img/object_company.png" alt="Dolibarr Interface" width="400" />
+   <img src="https://api.microlink.io/?url=https://demo.dolibarr.org/index.php/&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
 </p>
 
 ---
