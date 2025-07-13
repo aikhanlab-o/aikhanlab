@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/tasim313/tasim313/blob/main/icon.gif" alt="A I Khan Lab Logo" width="60" style="vertical-align: middle;" />
+  <img src="https://cdn-icons-png.flaticon.com/512/387/387561.png" alt="Doctor Icon" width="60" />
   <br/>
   A I Khan Lab Ltd.
 </h1>
@@ -7,7 +7,7 @@
 <h3 align="center">A Specialized Histopathology & Cancer Diagnostic Lab Using Custom ERP Solutions</h3>
 
 <p align="center">
-  <img src="https://www.dolibarr.org/images/dolibarr_erp_crm.png" alt="Dolibarr ERP" width="150" />
+  <img src="https://api.microlink.io/?url=https://www.dolibarr.org/&screenshot=true&meta=false&embed=screenshot.url" width="50%" />
 </p>
 
 ---
