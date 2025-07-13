@@ -86,6 +86,9 @@
 - 📧 **Email**: info@aikhanlab.com 
 - 🌐 **Website**: [www.aikhanlab.com](https://aikhanlab.com)  
 - 📞 **Phone**: +880 1810-197441
+- **Logo**: <p align="center">
+ <img width="245" height="235" alt="Logo_small" src="https://github.com/user-attachments/assets/2157be94-397c-4b28-ab6f-9551fd9dca19" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ERP%20Powered%20By-Dolibarr-blue?style=for-the-badge" />
@@ -94,3 +97,4 @@
 ---
 
 ### ✨ "Precision in Diagnosis, Excellence in Care."
+
