@@ -1,7 +1,9 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/387/387561.png" alt="Doctor Icon" width="60" />
   <br/>
-  A I Khan Lab Ltd.
+ <p align="center">
+ <img width="245" height="235" alt="Logo_small" src="https://github.com/user-attachments/assets/2157be94-397c-4b28-ab6f-9551fd9dca19" />
+</p> A I Khan Lab Ltd.
 </h1>
 
 <h3 align="center">A Specialized Histopathology & Cancer Diagnostic Lab Using Custom ERP Solutions</h3>
@@ -86,9 +88,7 @@
 - 📧 **Email**: info@aikhanlab.com 
 - 🌐 **Website**: [www.aikhanlab.com](https://aikhanlab.com)  
 - 📞 **Phone**: +880 1810-197441
-- **Logo**: <p align="center">
- <img width="245" height="235" alt="Logo_small" src="https://github.com/user-attachments/assets/2157be94-397c-4b28-ab6f-9551fd9dca19" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/ERP%20Powered%20By-Dolibarr-blue?style=for-the-badge" />
