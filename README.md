@@ -77,25 +77,15 @@
 - ✅ **Tailored Software Built In-House**
 - ✅ **Focus on Cancer Diagnostics**
 
----
-
-### 📷 Screenshots
-
-| Report View | Tracking System | Instruction Panel |
-|-------------|-----------------|-------------------|
-| ![Report](https://github.com/tasim313/assets/blob/main/report_ui.png) | ![Tracking](https://github.com/tasim313/assets/blob/main/tracking_ui.png) | ![Instructions](https://github.com/tasim313/assets/blob/main/instructions_ui.png) |
-
-> _*Note: Images above are placeholders. Replace URLs with your actual GitHub-hosted screenshots if available._
-
 
 ---
 
 ### 📫 Contact Us
 
-- 📍 **Address**: House-#6/Ka, Road #7, Dhanmondi, Dhaka, Bangladesh  
-- 📧 **Email**: info@aikhanlab.com | tasim.swe@gmail.com  
+- 📍 **Address**: Union Heights, Level 8, 55/2 Bir Uttam Kazi Nuruzzaman, West Panthapath, Dhaka 1205 , Bangladesh  
+- 📧 **Email**: info@aikhanlab.com 
 - 🌐 **Website**: [www.aikhanlab.com](https://aikhanlab.com)  
-- 📞 **Phone**: +880 1234-567890  
+- 📞 **Phone**: +880 1810-197441
 
 <p align="center">
   <img src="https://img.shields.io/badge/ERP%20Powered%20By-Dolibarr-blue?style=for-the-badge" />
